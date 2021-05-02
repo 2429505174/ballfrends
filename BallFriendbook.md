@@ -300,6 +300,8 @@ github熟悉了解  增删改 多人合作如何运行 通过git
 
 ### 运营
 
+https://developers.weixin.qq.com/miniprogram/product/#%E4%B8%80%E3%80%81%E5%8E%9F%E5%88%99%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%AF%B4%E6%98%8E微信官方运营文档
+
 
 
 ### 危险（微信警告）
