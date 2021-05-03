@@ -2,7 +2,7 @@
 
 开始时间：4.11
 
-距今天已经5.3：22天
+距今天已经5.3：22天了
 
 添加了  九 模块  
 
@@ -208,7 +208,7 @@ c.促进阶段
 
  
 
-a.营销理念：给球类爱好者想要的方便、想要的技术地位。
+a.营销理念：给球类爱好者想要的方便、想要的技术地位。记录他们的努力时光以及光辉战绩。
 
  
 
@@ -340,6 +340,10 @@ github熟悉了解  增删改 多人合作如何运行 通过git
 
 https://developers.weixin.qq.com/miniprogram/product/#%E4%B8%80%E3%80%81%E5%8E%9F%E5%88%99%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%AF%B4%E6%98%8E微信官方运营文档
 
+https://developers.weixin.qq.com/community/develop/article/doc/000a0ef7698680d6949987d6651813小程序盈利模式入门指南
+
+
+
 
 
 ### 危险（微信警告）
@@ -370,7 +374,9 @@ https://mp.weixin.qq.com/s/Wv1AqJ3J16cGw8Bna2udgw
 
 ### 借鉴
 
-将代码质量分为五层，一旦实现了下层的需求，就会追求上一层的需求。
+###### 将代码质量分为五层
+
+，一旦实现了下层的需求，就会追求上一层的需求。
 
  ![img](https://cdn.beekka.com/blogimg/asset/202104/bg2021040705.jpg)
 
@@ -393,6 +399,12 @@ https://mp.weixin.qq.com/s/Wv1AqJ3J16cGw8Bna2udgw
 **（5）第五层：利他主义**（Altruist）
 
 别人能否从这些代码学到东西？这些代码是否会激励其他工程师进行改进？它是否会让世界变成一个更好的地方？
+
+
+
+###### vue
+
+https://zhuanlan.zhihu.com/p/34450979   vue框架的使用 好处及坏处
 
 
 
